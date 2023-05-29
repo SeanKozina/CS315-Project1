@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id_str": "1",
+      "name": "Liel",
+      "location": "Hawaii",
+      "pic_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png",
+      "follows": []
+    }
+  ]
+}
